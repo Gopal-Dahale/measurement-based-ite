@@ -1,0 +1,9 @@
+title: QOSF Mentorship Cohort 7
+email: dahalegopal@gmail.com
+author: Gopal-Dahale
+baseurl: "/qosf-cohort-7"
+url: "https://gopal-dahale.github.io"
+repository: Gopal-Dahale/measurement-based-ite
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-spaceship
